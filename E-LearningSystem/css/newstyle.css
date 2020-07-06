@@ -214,12 +214,14 @@ header .navigation li ul li ul {
 .footer-1{
     bottom: 0;
     width: 100%;
-    height: 120px;
-    background-image: linear-gradient(to top, #0c3483 0%, #a2b6df 100%, #6b8cce 100%, #a2b6df 100%);
+    height: 100px;
+    background-image: linear-gradient(to top,#005a9b 0%,#005a9b 100%, #005a9b 100%, #005a9b 100%);
     color: #fff;
+   padding-top: 1em;
+   padding-bottom:1em;
 }
 .footer-1 .footer-content {
-    width: 90%;
+    width: 100%;
     display: flex; 
     justify-content: space-around;
     align-items: center;
@@ -227,13 +229,22 @@ header .navigation li ul li ul {
     
 }
 .footer-1 .footer-content h1{
-    font-size: 15px;
+    font-size: 18px;
 }
-.footer-1 .footer-content .redes-sociales img{
-    width: 60px; 
-    height: 60px;
+.footer-1 .footer-content .logo img{
+    width: 120px;
+    height: 70px;
     cursor: pointer;
-    padding-left: 10px;
     filter: hue-rotate(10deg) brightness(500%);
 }
-/** Footer**/
+.redes{
+    padding-left: 6em;
+}
+.redes .tres{
+    padding: 10px;
+    color:white;
+}
+.footer-1 .footer-content >.copy{
+    padding-top :5em;
+}
+    /** Footer**/
