@@ -1,7 +1,7 @@
 <!-- <h1><?php echo $title;?></h1> -->
 
 <link rel="stylesheet" type="text/css" href="css/newstyle.css">
-
+<script src="js/all.js"></script>
 <div class="contenedor-home">
   <div class="home">
     <h3>POLITECNICO INTERNACIONAL</h3>
@@ -11,7 +11,7 @@
     <p> Somos un grupo por empresarios que creen en Colombia, deseosos de retribuir a la sociedad y al país los
       rendimientos económicos originados por sus actividades. El Politécnico Internacional es una Institución de
       Educación Superior constituida como una fundación privada sin ánimo de lucro, la cual <strong>contribuye a la
-        formación integral de la juventud colombiana, para hacer realidad sus sueños a través de la empleabilidad o el
+        formación integral de la juventud colombiana, para hacer realidad sus s  ueños a través de la empleabilidad o el
         emprendimiento.</strong></p>
     <p><strong>Es unatituc Insión comprometida con el desarrollo laboral</strong> de sus egresados y es reconocida por
       las destacadas competencias prácticas y por los altos estándares de calidad y servicio que desarrolla en sus
@@ -47,18 +47,24 @@
     </ul>
   </div>
 </div>
-
 <footer class="footer-1">
 <div class="footer-content">
 	<div class="footer-text1">
-		<p>&copy: Grupo Mecánica dental - 2020 // Todos los derechos reservados</p>
-	</div>
+    <h1>Sigános en redes Sociales y en nuestra página web<h1>
+    <div class="redes">
+    <a href="https://www.facebook.com/politecnicointernacionalcolombia"> <span class="tres"> <i class=" icon">
+    <i class="fab fa-facebook"></i> </span> </i> </a>
+    <a href="https://twitter.com/PolitecnicoIn?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor"> <span class="tres"> <i class=" icon">
+    <i class="fab fa-twitter"></i> </span> </i> </a>
+    <a href="https://www.instagram.com/politecnicoin"> <span class="tres"> <i class=" icon">
+    <i class="fab fa-instagram"></i> </span> </i> </a>
+  </div> </div>
+  <p class="copy">&copy: Grupo Mecánica dental - 2020 // Todos los derechos reservados</p>
 
-	<div class="redes-sociales">
-		<h1>Sigános en redes Sociales y en nuestra página web<h1>
-		<a href="https://es-la.facebook.com/politecnicointernacionalcolombia/"> <img src="images/facebook.png" alt="" ></a>
-		<a href="https://twitter.com/PolitecnicoIn?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor"><img src="images/twitter.png" alt="" ></a>
-		<a href="https://politecnicointernacional.edu.co/sw/es/home"><img src="images/Poli.png" alt="" ></a>
-	</div>
+
+	<div class="logo">
+  <a  href="https://politecnicointernacional.edu.co/sw/es/home"> <img src="https://politecnicointernacional.edu.co/sw/sites/default/files/glazed-cms-media/logo-polinternacional-vrtl_0.png" alt="Politécnico internacional" title="" style="margin-top: 7px; width: 60%;"> </a>
+
+    
+        </div>
 </div>
-</foter>
